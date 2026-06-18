@@ -1,6 +1,6 @@
 package com.company;
 
-public class A {
+public class App{
 
 	    public static void main(String[] args) {
 
